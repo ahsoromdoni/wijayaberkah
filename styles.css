@@ -538,6 +538,11 @@ footer{
     letter-spacing: .8rem;
   }
 
+  .headline-mobile{
+    font-size: 1rem;
+    color: magenta;
+  }
+
   .line{
     max-width: 11.4rem;
   }
