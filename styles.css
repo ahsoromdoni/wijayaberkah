@@ -155,7 +155,7 @@ header{
 .hero{
   width: 100%;
   height: 100vh;
-  background: url("images/hero.jpg") center no-repeat;
+  background: url("images/rice.jpg") center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -345,7 +345,7 @@ header{
 
 /* Tasteful Recipes */
 .tasteful-recipes{
-  background: url("images/tasteful-recipes.jpg") center no-repeat;
+  background: url("images/sugar-cover.jpg") center no-repeat;
   background-size: cover;
 }
 
